@@ -1,0 +1,30 @@
+.to-do-app {
+  width: 70%;
+  max-width: 900px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  overflow-y: auto;
+}
+.heading {
+  color: rgb(87, 84, 134);
+  text-transform: uppercase;
+}
+.input {
+  width: 50%;
+  border: 1px solid gray;
+  padding: 3px 10px;
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+.btn {
+  /* background-color: blue; */
+  /* color: white; */
+  border-radius: 5px;
+  padding: 3px 10px;
+  margin-left: 1rem;
+  color: green;
+  border: 1px solid green;
+  cursor: pointer;
+}
